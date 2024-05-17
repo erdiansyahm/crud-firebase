@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824708795376",
+    "project_id": "kotlintodopractice-3b963",
+    "storage_bucket": "kotlintodopractice-3b963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824708795376:android:032a1e900e17a542feab35",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyFplLPwZaeK3iOVxzP6hCZKqukwIKBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
